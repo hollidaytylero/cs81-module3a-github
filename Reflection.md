@@ -1,0 +1,4 @@
+Using GitHub showed me how developers track all the changes to their code and also how to manage different projects. In the assignment, I created a repository, made changes to files, and leaned how to push everything to GitHub. I also saw how GitHub keeps old version of work like google doc.
+The most confusing part is all of the different panels and windows and commands. It still feels like a foreign language to me and I still struggle with committing files and pushing them out to GitHub. Lots of things to remember make it easy to make mistakes.
+Developers use GitHub because like Google Docs you can collaborate and see all of the versions of changes that different people are making. It's like a roadmap of your work in the digital form.
+GitHub is useful for larger projects to stay organized and also to help groups work together even if they are not in the same place. It's a good way to learn how to collaborate and record your work and review it.
