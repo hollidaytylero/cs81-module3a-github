@@ -9,3 +9,7 @@ git push
 function isEven(number) {
   return number % 2 === 0;
 }
+// Convert text to uppercase
+function makeUpperCase(text) {
+  return text.toUpperCase();
+}
