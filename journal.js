@@ -13,3 +13,7 @@ function isEven(number) {
 function makeUpperCase(text) {
   return text.toUpperCase();
 }
+// Check if a number is even
+function isEven(number) {
+  return number % 2 === 0;
+}
