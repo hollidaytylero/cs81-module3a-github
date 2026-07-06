@@ -17,3 +17,7 @@ function makeUpperCase(text) {
 function isEven(number) {
   return number % 2 === 0;
 }
+// Count the number of characters in a string
+function countCharacters(text) {
+  return text.length;
+}
