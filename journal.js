@@ -2,3 +2,6 @@
 function greet(name) {
   return "Hello, " + name + "!";
 }
+git add journal.js
+git commit -m "Add greet() function to journal"
+git push
